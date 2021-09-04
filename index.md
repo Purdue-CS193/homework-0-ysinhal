@@ -1,7 +1,7 @@
 ## Yash's First CS193 Homework
 
 
-###Favorite Things about CS193:###
+### Favorite Things about CS193:
 - Easy fun class
 - Cool teachers
 - No Exams!
